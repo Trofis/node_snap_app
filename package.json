@@ -1,0 +1,14 @@
+{
+  "name": "node_snap_app",
+  "version": "1.0.0",
+  "description": "Snap app server in nodeJS/express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas MENDES",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
